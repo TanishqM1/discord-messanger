@@ -1,0 +1,39 @@
+{
+  "name": "discord-clone",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@clerk/clerk-sdk-node": "^5.0.62",
+    "@clerk/nextjs": "^6.3.1",
+    "autoprefixer": "^10.4.20",
+    "next": "15.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "stream-chat": "^8.43.0",
+    "stream-chat-react": "^12.5.2",
+    "tailwind": "^4.0.0",
+    "uuid": "^11.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "chai": "^5.1.2",
+    "eslint": "^8",
+    "eslint-config-next": "15.0.3",
+    "mocha": "^10.8.2",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5"
+  }
+}
