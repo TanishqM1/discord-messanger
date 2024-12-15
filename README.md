@@ -2,7 +2,7 @@
 
 ## Project Overview  
 
-Discord Messenger is a real-time communication platform designed to emulate core functionalities of Discord. Built with a modern tech stack, this project allows users to create servers, organize communication via categories and channels, and exchange messages securely. The development process emphasized efficient project management using Kanban and agile methodologies to deliver a collaborative and functional app.  
+Discord Messenger is a real-time communication platform designed to emulate core functionalities of Discord. Built with a modern tech stack, this project allows users to create servers, organize communication via categories and channels, and exchange messages securely. The development process emphasized efficient project management using Kanban and Agile methodologies to deliver a collaborative and functional app.  
 
 ---
 
